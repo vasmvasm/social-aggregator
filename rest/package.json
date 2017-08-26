@@ -1,0 +1,25 @@
+{
+  "name": "play",
+  "description": "News Aggregator",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+	"ejs": "*",
+	"request": "*",
+	"cookie": "*",
+        "cookie-parser": "*",
+        "cookie-session": "*",
+        "serve-favicon": "*",
+        "morgan": "*",
+        "body-parser": "*",
+        "method-override": "*",
+        "serve-static": "*",
+	"connect": "*",
+        "express": "*",
+	"connect-flash": "*",
+        "mongoose": "*",
+	"compression": "*",
+    "underscore":"*"
+  }
+}
